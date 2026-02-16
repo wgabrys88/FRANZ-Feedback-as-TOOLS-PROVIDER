@@ -1,4 +1,4 @@
-```
+
 # FRANZ -- Autonomous Drawing Agent with Self-Supervised Memory
 
 FRANZ is an autonomous agentic system that drives a Vision-Language Model (VLM)
@@ -742,4 +742,4 @@ Changes take effect on the next turn (hot-reloaded).
 | Arrow Left/Right | Keyboard navigation between turns                   |
 | Home / End       | Jump to first / latest turn                         |
 | Drag separators  | Resize quadrants by dragging the divider lines      |
-```
+
